@@ -1,0 +1,2 @@
+repository	last_checked_at_utc	checked_ref	observed_head_sha	earliest_visible_root	advertised_refs	branch_pages	all_state_pr_pages	chain_commits	commit_details_reviewed	current_tree_truncated	coverage	last_full_git_mirror_audit	last_api_behavior_test	status
+hsoliwal/meanvar	2026-11-18T12:38:38.779Z	refs/heads/master	b658526f81826e39c31823d583ebe6f6d6d9fe45	37e53c814719a1bed5df5c263d3bb57211901934	1	1+0	0+0	35	35	false	API_VISIBLE_REACHABLE_BRANCH_CHAIN_ONLY	NOT_RUN	NOT_RUN	PARTIAL_REVIEW_ONLY
