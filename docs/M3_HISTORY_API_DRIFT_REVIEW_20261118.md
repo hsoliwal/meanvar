@@ -89,3 +89,12 @@ laundering mechanism. No algorithm/performance winner is declared here.
 
 Run complete source-ref/custody reconciliation, API compatibility tests and
 versioned Synexia recipe evidence before proposing any source modification.
+
+
+## Independent documentation review checkpoint
+
+Reviewed at **2026-11-18T14:23:32.167457+00:00** against this report's pinned source revision `b658526f81826e39c31823d583ebe6f6d6d9fe45`. The receiving branch was observed separately at `942f3921a6efed882de3284d3439ef78d0836266`; this checkpoint does not extend the 35-commit source review to that later branch revision.
+
+The independent read reproduced the 35-commit single-parent chain and empty second commit-list page, the cited root, all 35 commit-detail responses, the untruncated 34-entry tree, and the exact cited source and MIT license blobs. The two historical change diffs and the pinned before/after method bodies support the listed signature removals and sample-versus-population variance changes. These observations remain contract-review candidates, not declarations that upstream made an erroneous change.
+
+The advertised-ref, branch-search and all-state PR cardinalities above are retained as the original author's dated observations. Current API responses cannot independently reconstruct that earlier namespace snapshot; those historical cardinalities were not newly certified by this review. No hidden/deleted-ref mirror audit, build, test, API compatibility execution or runtime comparison was run. The historical `PARTIAL_REVIEW_ONLY` disposition and source-restoration holds remain in force.
